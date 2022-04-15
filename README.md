@@ -49,3 +49,4 @@ densenet의 경우 validation accuracy가 96%, validation loss는 0.2129 의 가
 |squeezenet transferlearning|40%|
 
 <br/><br/>
+
